@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymupdf
+python-docx
+transformers
+torch
+sentence-transformers
+duckduckgo-search
+python-multipart
