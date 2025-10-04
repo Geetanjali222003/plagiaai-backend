@@ -2,8 +2,6 @@ fastapi
 uvicorn
 pymupdf
 python-docx
-transformers
-torch
-sentence-transformers
+scikit-learn
 duckduckgo-search
 python-multipart
