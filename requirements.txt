@@ -1,6 +1,6 @@
+
 fastapi
 uvicorn
-sentence-transformers
-scikit-learn
-duckduckgo-search
 PyMuPDF
+python-docx
+duckduckgo-search
